@@ -5,7 +5,7 @@ Detailed descriptions of database, infrastructure, and platform engineering resp
 - [Independent Database Consulting](00-independent-consulting.md)
 - [ScaleGrid](01-scalegrid.md)
 - [REVE Systems](02-reve-systems.md)
-- [Upwork Consulting](03-upwork-consulting.md)
+- [Upwork Consulting](03-upwork-consulting.md) — [Public Upwork profile and completed-job history](https://www.upwork.com/freelancers/~01df71c645713fd3bc?viewMode=1)
 - [KONA Software Lab](04-kona-software-lab.md)
 - [Mir Telecom](05-mir-telecom.md)
 - [BRAC Bank](06-brac-bank.md)
