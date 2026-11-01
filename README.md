@@ -24,7 +24,7 @@ I work across relational and NoSQL database platforms, with experience spanning 
 | Independent consulting | Independent Database Consultant | Aug 2025–Present |
 | ScaleGrid | Database Consultant | Dec 2022–Apr 2025 |
 | REVE Systems | Database Consultant | Aug 2022–Nov 2022 |
-| Upwork | Freelance Database Consultant | Jun 2021–Jul 2022 |
+| Upwork | Freelance Database Consultant — [Public profile]( https://www.upwork.com/freelancers/~01df71c645713fd3bc?viewMode=1 ) | Jun 2021–Jul 2022 |
 | KONA Software Lab | Senior Engineer Level-2 (Database) | Feb 2019–Jan 2021 |
 | Mir Telecom | Assistant Manager; Senior System Engineer; System Engineer; Assistant System Engineer | Apr 2010–Feb 2019 |
 | BRAC Bank | Executive Programmer | Jun 2009–Mar 2010 |
