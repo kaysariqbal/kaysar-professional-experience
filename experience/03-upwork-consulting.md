@@ -21,6 +21,11 @@ Delivered database consulting and engineering services to international clients,
 
 MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Oracle Database, Amazon Aurora.
 
-## Client feedback
+## Client feedback and recognition
 
-A completed Upwork contract received a **5.0/5 rating**. The client specifically praised SQL optimization capability, responsiveness, and delivery. This is a contract-specific rating, not an overall profile rating.
+- Received **more than 30 five-star (5.0/5.0) ratings** across Upwork contracts.
+- Most other rated contracts received scores **above 4.7/5.0**.
+- A small number of contracts did not receive a client rating.
+- Client feedback has recognized SQL optimization expertise, responsiveness, and successful delivery.
+
+These figures describe ratings on individual Upwork contracts; they are not presented as an overall profile rating.
