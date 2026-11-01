@@ -1,7 +1,8 @@
 # Independent Consulting — Upwork
 
 **Role:** Freelance Database Consultant  
-**Period:** June 2021–July 2022
+**Period:** June 2021–July 2022  
+**Public Upwork profile:** [View profile and completed-job history](https://www.upwork.com/freelancers/~01df71c645713fd3bc?viewMode=1)
 
 ## Engagement overview
 
@@ -57,4 +58,4 @@ MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Oracle Database, Amazon Aurora, AWS 
 
 ## Evidence note
 
-The 45-job total and endorsement counts are visible in the supplied Upwork profile snapshots. The more-than-30 five-star count and the statement about the distribution of remaining ratings are supplied by the profile owner. The listed contract examples and quoted feedback are limited to what is visible in the supplied screenshots; they are representative examples, not an exhaustive transcription of all 45 jobs.
+The 45-job total and endorsement counts are visible in the supplied Upwork profile snapshots. The more-than-30 five-star count and the statement about the distribution of remaining ratings are supplied by the profile owner. The listed contract examples and quoted feedback are limited to what is visible in the supplied screenshots; they are representative examples, not an exhaustive transcription of all 45 jobs. The public profile link above provides the live Upwork reference.
