@@ -5,34 +5,44 @@
 
 ## Role overview
 
-Worked on Oracle Business Intelligence and data warehousing activities, including BI administration, data modeling, ETL, reporting, and operational support.
+Worked on Oracle Business Intelligence (OBIEE), Oracle Data Warehousing, and Oracle Database development and administration activities supporting enterprise reporting, analytical processing, data integration, and the Teller Evaluation System. The work covered BI metadata and presentation-layer development, ETL mapping design and execution, report generation and distribution, database programming, and operational administration.
 
-## Oracle Business Intelligence
+## Oracle Business Intelligence (OBIEE)
 
-- Worked with Oracle Business Intelligence tools on database design using dimensions and cubes.
-- Loaded data using Oracle Warehouse Builder mapping tools.
-- Created physical, layer, business-model, and presentation-layer components.
-- Worked with Oracle BI Administration Tool to create and manage BI objects.
-- Created BI Answers queries and represented results through dashboards.
-- Generated interactive reports using Oracle BI Publisher and delivered reports to business users.
-- Scheduled report delivery and managed BI server operations.
-- Worked with clustering and BI server administration.
+- Implemented business intelligence logic in database designs using dimensions and cubes to support analytical and reporting requirements.
+- Loaded dimensional and cube data using Oracle Warehouse Builder (OWB) mapping tools.
+- Developed the Physical Layer, Business Model and Mapping Layer (BMM), and Presentation Layer using the Oracle BI Administration Tool.
+- Created and maintained BI metadata and mappings to expose warehouse data for business reporting and analysis.
+- Built analytical queries using BI Answers and presented the results through interactive dashboards.
+- Developed interactive reports using Oracle BI Publisher.
+- Configured report delivery through BI Delivers to destinations including FTP locations and mail servers.
+- Scheduled report distribution and configured alert notifications using iBots.
+- Supported BI Server administration, including clustering and related operational activities.
 
-## Oracle Data Warehouse
+## Oracle Data Warehouse & ETL
 
-- Worked with Oracle Warehouse Builder tools.
-- Designed ETL mappings, deployed objects, and executed mappings using Control Center against source and target schemas.
-- Administered Warehouse Builder and scheduled data loading through the OMB scheduling utility.
-- Worked with jobs, scheduler, job chains, and process flows using Oracle Workflow Manager.
-- Maintained a test database for developer requirements.
-- Created PL/SQL scripts and performed SQL tuning.
-- Worked with Oracle database jobs, scheduler, job chains, partitioning, and indexing.
-- Applied database roles and privileges and supported data loading from Oracle DB2 and SQL Server sources using heterogeneous services.
+- Designed and implemented ETL mappings using Oracle Warehouse Builder to load data from source systems into target warehouse schemas.
+- Deployed warehouse objects and executed ETL mappings through Control Center, working with the relevant source and target schemas.
+- Performed Oracle Warehouse Builder administration and scheduled data-loading activities using OWB scheduling utilities.
+- Worked with Oracle Jobs and Scheduler, Job Chains, Process Flows, and Oracle Workflow Manager to support scheduled and coordinated data-processing operations.
+- Supported data loading into the Oracle Data Warehouse from DB2 and Microsoft SQL Server databases using Oracle Heterogeneous Services.
 
-## Recorded project
+## Oracle Database Administration & Development
 
-The source CV identifies a Teller Evaluation System as an Oracle Business Intelligence and data warehousing project.
+- Maintained test database environments to meet application developers' requirements.
+- Developed SQL and PL/SQL scripts to support database and application functionality.
+- Performed SQL tuning and query troubleshooting.
+- Managed Oracle database jobs, scheduling, and job chains.
+- Worked with database partitioning and indexing to support data organization and query performance.
+- Administered database users, roles, privileges, and access to database objects.
+- Implemented Oracle Resource Manager for database resource management.
+
+## Key project
+
+### Teller Evaluation System
+
+Supported the Teller Evaluation System through Oracle Business Intelligence and Data Warehousing work, including analytical data structures, warehouse data loading, BI metadata, queries, dashboards, and reporting.
 
 ## Technologies
 
-Oracle Business Intelligence, Oracle Warehouse Builder, Oracle BI Administration Tool, BI Answers, Oracle BI Publisher, Oracle Workflow Manager, PL/SQL, SQL, Oracle Database, DB2, SQL Server heterogeneous connectivity.
+Oracle Business Intelligence (OBIEE), Oracle BI Administration Tool, BI Answers, Oracle BI Publisher, BI Delivers, iBots, Oracle Warehouse Builder (OWB), Control Center, Oracle Workflow Manager, Oracle Database, SQL, PL/SQL, Oracle Jobs and Scheduler, Job Chains, Process Flows, Oracle Resource Manager, Oracle Heterogeneous Services, DB2, and Microsoft SQL Server.
