@@ -1,33 +1,32 @@
 # Automation and Infrastructure as Code
 
-Experience with operational scripting, infrastructure automation, and Terraform-based infrastructure management.
+My experience includes operational scripting, database scheduling and maintenance workflows, infrastructure administration, and Terraform-based infrastructure automation.
 
-## Automation experience
+## Operational automation
 
-- Developed shell scripts and Windows batch scripts for operational automation.
-- Automated and supported database backup and recovery operations.
-- Worked with database jobs, schedulers, job chains, and workflow processes in Oracle environments.
-- Supported infrastructure provisioning and systems administration workflows.
+- Developed shell scripts and Windows batch scripts for infrastructure and operational tasks.
+- Used Oracle Jobs, Scheduler, Job Chains, Process Flows, and Oracle Workflow Manager to support scheduled and coordinated data-processing activities.
+- Supported database backup, recovery, maintenance, and administration workflows using platform-native tools.
+- Automated and standardized recurring systems-administration activities where appropriate.
 
 ## Terraform and Infrastructure as Code
 
-Recent engineering work includes using Terraform to provision and manage modular infrastructure.
+My database consulting and engineering work includes Terraform-based infrastructure automation. Recent infrastructure architecture work is organized into distinct layers, including:
 
-The architecture work is organized into distinct layers, including:
+- Foundation and remote-state infrastructure.
+- Networking.
+- Security and identity.
+- Database infrastructure.
+- Database runtime governance.
+- Execution workflows.
+- Compute and supporting infrastructure.
 
-- Foundation
-- Networking
-- Security and identity
-- Database infrastructure
-- Runtime governance
-- Execution workflows
-- Compute and supporting infrastructure
-
-The intent is to keep infrastructure definitions modular, reusable, and separated by responsibility. Detailed module inventories and implementation specifics belong in the relevant technical repositories, not in this professional experience portfolio.
+The architecture separates infrastructure responsibilities into modular, reusable layers and supports repeatable provisioning and operational workflows. Detailed module inventories and implementation specifics belong in the relevant technical repositories.
 
 ## Operational principles
 
 - Version-controlled infrastructure definitions.
 - Reusable and modular deployment patterns.
-- Clear separation of infrastructure responsibilities.
+- Separation of infrastructure responsibilities.
 - Repeatable provisioning and operational workflows.
+- Automation aligned with database and infrastructure operational requirements.
