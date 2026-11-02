@@ -1,44 +1,53 @@
 # Database Engineering
 
-Professional experience across relational and NoSQL platforms, covering production administration, performance, availability, replication, recovery, migration, and troubleshooting.
+My database engineering experience spans relational and NoSQL platforms, covering consulting, production administration, performance engineering, high availability, replication, backup and recovery, migration, and troubleshooting.
 
 ## Database platforms
 
-- **Relational:** Oracle Database, MySQL, MariaDB, PostgreSQL
-- **NoSQL / in-memory:** MongoDB, Redis
-- **Cloud-managed:** Amazon RDS, Amazon Aurora
+- **Relational:** MySQL, MariaDB, PostgreSQL, Oracle Database
+- **NoSQL and in-memory:** MongoDB, Redis
+- **Cloud-managed:** Amazon RDS and Amazon Aurora
+- **Operating environments:** On-premises, cloud-hosted, and hybrid infrastructure
 
 ## Engineering capabilities
 
-### Production operations and troubleshooting
+### Database administration and production support
 
-- L3 production support, incident investigation, root-cause analysis, and corrective/preventive actions.
-- Database installation, configuration, upgrades, maintenance, and operational support.
-- Investigation of storage, memory, CPU, connection, locking, concurrency, and data-integrity issues.
+- Install, configure, administer, upgrade, and maintain database platforms.
+- Provide production support, incident investigation, technical escalation, and root-cause analysis.
+- Troubleshoot resource, storage, connection, locking, concurrency, connectivity, replication, and data-integrity issues.
+- Support database maintenance, operational reliability, and production readiness.
 
 ### High availability and replication
 
-- Oracle RAC and Oracle Data Guard.
-- MySQL and MariaDB replication, including Galera Cluster.
-- PostgreSQL replication.
+- Oracle Real Application Clusters (RAC) and Oracle Data Guard.
+- MySQL Replication, MySQL InnoDB Cluster, and MariaDB Galera Cluster.
+- PostgreSQL streaming replication.
 - MongoDB replica sets.
 - Redis operational and connectivity troubleshooting.
 
 ### Backup, recovery, and disaster recovery
 
-- Oracle RMAN and Data Pump.
-- MySQL dump-based backup and recovery.
-- Backup validation, restore testing, point-in-time recovery, and disaster recovery operations.
+- Oracle RMAN, Data Pump Export (EXPDP), and Import (IMPDP).
+- MySQL and MariaDB backup and recovery using mysqldump and MySQL Enterprise Backup.
+- PostgreSQL backup and restore using pg_dump, pg_dumpall, and pg_restore.
+- Backup, restoration, recovery, and disaster recovery support across database environments.
 
 ### Performance engineering
 
-- SQL tuning, execution-plan analysis, indexing, and database parameter optimization.
-- Oracle AWR, ASH, ADDM, and Enterprise Manager diagnostics.
-- MySQL performance schema, slow-query logs, and error-log analysis.
-- Capacity and resource utilization analysis.
+- SQL query analysis and tuning, execution-plan analysis, indexing, and database configuration optimization.
+- Oracle AWR, ASH, ADDM, and Oracle Enterprise Manager diagnostics.
+- MySQL Performance Schema, slow-query logs, and error-log analysis.
+- PostgreSQL performance analysis using PostgreSQL Enterprise Manager and pgBadger.
+- Capacity, resource utilization, and workload bottleneck analysis.
 
-### Migration and integration
+### Migration, integration, and data modeling
 
-- Cross-platform database connectivity and heterogeneous data integration.
-- Database migration and upgrade support across relational platforms.
-- Schema design, data modeling, database objects, and referential integrity.
+- Database migration, version upgrades, and cross-platform data transfer.
+- Heterogeneous connectivity and data integration across relational platforms.
+- Relational schema design, data modeling, and implementation of tables, views, indexes, synonyms, and integrity constraints.
+- Database and application troubleshooting across development, test, and production environments.
+
+## Cloud and delivery context
+
+Database services have been administered and supported across on-premises infrastructure and AWS, Google Cloud, and Microsoft Azure environments, including AWS RDS and Amazon Aurora.
