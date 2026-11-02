@@ -1,16 +1,16 @@
 # Mir Telecom
 
-**Roles:** Assistant System Engineer cum DBA; System Engineer; Senior System Engineer; Assistant Manager  
+**Roles:** Assistant System Engineer; System Engineer; Senior System Engineer; Assistant Manager  
 **Period:** April 2010–February 2019
 
 Mir Telecom experience covered progressive responsibilities across database administration, Linux and Windows systems administration, telecom billing platforms, database engineering, virtualization, and cloud infrastructure. The work evolved from hands-on Oracle DBA and billing application operations into multi-database administration, high availability, database design and performance engineering, team coordination, and cloud infrastructure administration.
 
-## Assistant System Engineer cum DBA – Database & Infrastructure Operations
+## Assistant System Engineer – Database & Infrastructure Operations
 
 ### Oracle Database Administration & Development
 
 - Assisted with the installation, configuration, and administration of Oracle Database, Microsoft SQL Server, and MySQL across production, test, and development environments.
-- Administered Oracle Database 9i, supporting day-to-day database operations, routine maintenance, and application requirements.
+- Administered Oracle Database 9i as the application database platform, supporting day-to-day database operations, routine maintenance, and application requirements.
 - Performed routine database administration, including user and account management, tablespace monitoring, schema maintenance, database startup and shutdown, and privilege administration.
 - Managed Oracle database backup and recovery operations using Recovery Manager (RMAN), including scheduled backup execution, backup monitoring, archive maintenance, and support for restoration and recovery procedures.
 - Developed and modified SQL queries and PL/SQL scripts, investigated query errors, and assisted application developers with database-related troubleshooting.
@@ -40,6 +40,8 @@ Mir Telecom experience covered progressive responsibilities across database admi
 ## System Engineer – Database Administration & Telecom Operations
 
 ### Database Administration & High Availability
+
+- Administered Oracle Database 10g for application database workloads, alongside MySQL and Microsoft SQL Server environments.
 
 - Configured, administered, and maintained Oracle, MySQL, and Microsoft SQL Server databases supporting telecom business applications.
 - Configured and maintained Oracle Data Guard and MySQL Replication, monitoring replication status and supporting database availability and data synchronization.
@@ -99,7 +101,7 @@ Mir Telecom experience covered progressive responsibilities across database admi
 
 ### Database Engineering & Administration
 
-- Configured and administered Oracle, MySQL, and Microsoft SQL Server databases.
+- Configured and administered Oracle Database 19c, MySQL, and Microsoft SQL Server databases.
 - Maintained Oracle Data Guard and MySQL Replication environments.
 - Designed and modeled relational databases for software applications, translating ER diagrams into physical database objects.
 - Created and maintained tables, views, synonyms, indexes, Index-Organized Tables (IOTs), and referential integrity constraints.
@@ -131,4 +133,4 @@ The broader Mir Telecom experience also included work with Huawei cloud and virt
 
 ## Technologies
 
-Oracle Database 9i/10g/11g, Oracle Data Guard, Oracle RMAN, Oracle Data Pump (EXPDP/IMPDP), Oracle APEX, MySQL, Microsoft SQL Server, MySQL Replication, CBOSS, MTel, VoIP, CDR Collector, CDR Translator, Mediation, Rating, OpenStack, Huawei FusionCloud 6.3, FusionSphere, AWS EC2, EBS snapshots, ELB, Auto Scaling, VPC, Security Groups, Elastic IP, CloudWatch, AWS RDS, KVM, VMware, Oracle VM VirtualBox, Solaris, Red Hat Enterprise Linux, CentOS, Ubuntu, Oracle Linux, Windows Server, SCSI, SAN, tape storage, RAID, LVM, NFS, Samba, FTP, shell scripting, and Windows batch scripting.
+Oracle Database 9i, 10g, 11g, and 19c, Oracle Data Guard, Oracle RMAN, Oracle Data Pump (EXPDP/IMPDP), Oracle APEX, MySQL, Microsoft SQL Server, MySQL Replication, CBOSS, MTel, VoIP, CDR Collector, CDR Translator, Mediation, Rating, OpenStack, Huawei FusionCloud 6.3, FusionSphere, AWS EC2, EBS snapshots, ELB, Auto Scaling, VPC, Security Groups, Elastic IP, CloudWatch, AWS RDS, KVM, VMware, Oracle VM VirtualBox, Solaris, Red Hat Enterprise Linux, CentOS, Ubuntu, Oracle Linux, Windows Server, SCSI, SAN, tape storage, RAID, LVM, NFS, Samba, FTP, shell scripting, and Windows batch scripting.
