@@ -130,7 +130,7 @@ The broader Mir Telecom experience also included work with Huawei cloud and virt
 
 ## Selected Project Context
 
-- **Oracle Data Guard implementation:** The source CV records an Oracle Data Guard implementation using Oracle Database 10g/11g across Linux, Solaris, and Windows platforms.
+- **Oracle Data Guard implementation:** I implemented Oracle Data Guard using Oracle Database 10g/11g across Linux, Solaris, and Windows platforms.
 
 ## Technologies
 
