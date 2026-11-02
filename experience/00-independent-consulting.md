@@ -5,10 +5,10 @@
 
 ## Role overview
 
-Independent database consulting engagement recorded in the current CV.
+I am currently undertaking independent database consulting work.
 
 ## Experience record
 
-The current CV identifies this engagement but the supplied detailed experience PDF does not include its responsibilities. Detailed scope, platforms, deliverables, and outcomes are therefore intentionally left for a later verified update.
+I will add the detailed responsibilities, platforms, deliverables, and outcomes for this engagement once I have finalized that information.
 
-Recent engineering work discussed for the current professional profile includes database and infrastructure monitoring using Prometheus and Grafana, and modular cloud infrastructure provisioning and management with Terraform. These are recorded in the engineering highlights, not attributed to a specific client engagement here until the employment/project association is confirmed.
+My recent engineering work also includes database and infrastructure monitoring with Prometheus and Grafana, and modular cloud infrastructure provisioning and management with Terraform. I describe these capabilities separately in the engineering highlights rather than attributing them to a specific client engagement.
