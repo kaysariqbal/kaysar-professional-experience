@@ -116,12 +116,11 @@ Mir Telecom experience covered progressive responsibilities across database admi
 - Performed system administration tasks covering disk partitioning, Logical Volume Management (LVM), user and group administration, file ownership and permissions, and package installation.
 - Managed software package builds, system logging, and mail services.
 
-## Additional Cloud & Infrastructure Platform Experience
+## Mir Cloud – Huawei FusionCloud Private Cloud Implementation
 
-The broader Mir Telecom experience also included work with Huawei cloud and virtualization platforms, alongside the AWS and OpenStack activities described above.
-
-- Worked with Huawei FusionCloud 6.3 and FusionSphere OpenStack deployments.
-- Provisioned and managed virtual private cloud resources, compute resources, images, flavors, and virtual data centers.
+- Participated as a member of the implementation team for Mir Cloud, Mir Telecom's private cloud platform based on Huawei FusionCloud and OpenStack.
+- Worked with the Huawei FusionCloud 6.3 and FusionSphere OpenStack platform components supporting the Mir Cloud environment.
+- Contributed to implementation activities involving virtual private cloud resources, compute resources, images, flavors, and virtual data centers.
 - Worked with security groups, firewalls, load balancing, and auto-scaling capabilities in cloud environments.
 - Supported infrastructure operations involving RAID, LVM, filesystems, NFS, Samba, FTP, virtualization, and storage capacity.
 - Developed shell scripts and Windows batch automation for infrastructure and operational tasks.
