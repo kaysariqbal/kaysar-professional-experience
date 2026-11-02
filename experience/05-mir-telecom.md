@@ -60,6 +60,7 @@ Mir Telecom experience covered progressive responsibilities across database admi
 
 ### Database Administration & High Availability
 
+- Administered Oracle Database 9i and 10g, alongside MySQL and Microsoft SQL Server, across the Senior System Engineer role.
 - Configured, administered, and maintained Oracle, MySQL, and Microsoft SQL Server database environments.
 - Configured and maintained Oracle Data Guard and MySQL Replication to support database availability, replication, and disaster recovery requirements.
 - Implemented database backup and recovery procedures using Oracle RMAN, Data Pump Export (EXPDP), and MySQL Dump (mysqldump).
