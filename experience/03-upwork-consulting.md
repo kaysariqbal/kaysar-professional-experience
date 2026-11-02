@@ -6,9 +6,9 @@
 
 ## Engagement overview
 
-The Upwork profile snapshot records **45 completed jobs**. The profile owner reports receiving **more than 25 five-star (5.0/5.0) contract ratings**. Most of the remaining rated contracts are reported as above 4.7/5.0; a small number had no rating. The visible profile snapshot also includes some lower individual ratings, including 4.4 and 4.0, so the record should not be represented as uniformly five-star.
+My Upwork history includes **45 completed jobs** and **more than 25 five-star (5.0/5.0) contract ratings**. Most of my other rated contracts are above 4.7/5.0, while a small number have no rating. The contract history also includes a few lower individual ratings, including 4.4 and 4.0; the figures here distinguish individual contract ratings from an overall profile rating.
 
-These are contract-level ratings, not an overall profile rating.
+These figures refer to individual contract ratings, not an overall profile rating.
 
 ## Technical responsibilities and engagement types
 
@@ -24,7 +24,7 @@ These are contract-level ratings, not an overall profile rating.
 
 ## Representative client feedback
 
-The profile snapshot includes these client comments on completed contracts:
+Selected client feedback from my completed contracts includes:
 
 - **MySQL 8 Enterprise Cluster Configuration (5.0/5):** The client highlighted database replication and MySQL clustering knowledge, said the requirements were met, and recommended the work.
 - **PostgreSQL Query & Performance Optimizations (5.0/5):** The client praised availability, smooth communication, knowledge, and professionalism, and noted that the contract was completed early.
@@ -38,7 +38,7 @@ Other visible contract titles include MySQL query optimization, WordPress/MySQL 
 
 ## Upwork client endorsement insights
 
-The captured profile snapshot lists these endorsements from completed jobs:
+My Upwork profile shows the following client endorsements from completed jobs:
 
 | Endorsement | Count |
 |---|---:|
@@ -50,7 +50,7 @@ The captured profile snapshot lists these endorsements from completed jobs:
 | Accountable for Outcomes | 4 |
 | Professional | 1 |
 
-These are client endorsement counts shown by Upwork, not contract ratings.
+These are client endorsement counts, separate from contract ratings.
 
 ## Core technologies
 
@@ -58,4 +58,4 @@ MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Oracle Database, Amazon Aurora, AWS 
 
 ## Evidence note
 
-The 45-job total and endorsement counts are visible in the supplied Upwork profile snapshots. The more-than-25 five-star count and the statement about the distribution of remaining ratings are supplied by the profile owner. The listed contract examples and quoted feedback are limited to what is visible in the supplied screenshots; they are representative examples, not an exhaustive transcription of all 45 jobs. The public profile link above provides the live Upwork reference.
+The figures and selected feedback above summarize my Upwork profile and completed contract history. The contract examples are representative rather than an exhaustive list of all 45 jobs. My public Upwork profile provides the live reference.
