@@ -55,7 +55,7 @@ Supported banking, fintech, digital payment, and enterprise platforms across Ban
 
 ## Business & Platform Context
 
-The source CV identifies work supporting banking, fintech, digital payment, and eKYC platforms. It names several banking and payment organizations; this public portfolio deliberately uses generalized descriptions rather than publishing a client list.
+I supported banking, fintech, digital payment, and eKYC platforms. I have kept client references at a general level and have not included a client list in this public portfolio.
 
 ## Technologies
 
