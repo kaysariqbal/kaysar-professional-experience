@@ -1,8 +1,8 @@
 # Employment Experience
 
-Detailed descriptions of database, infrastructure, and platform engineering responsibilities across professional roles.
+Detailed descriptions of my database, infrastructure, and platform engineering responsibilities across professional roles and consulting engagements.
 
-- [Independent Database Consulting](00-independent-consulting.md)
+- [Independent Database Consulting](00-independent-consulting.md) — Freelance Database Consultant, Multi-Platform Database Engineering
 - [ScaleGrid](01-scalegrid.md)
 - [REVE Systems](02-reve-systems.md)
 - [Upwork Consulting](03-upwork-consulting.md) — [Public Upwork profile and completed-job history](https://www.upwork.com/freelancers/~01df71c645713fd3bc?viewMode=1)
@@ -10,4 +10,4 @@ Detailed descriptions of database, infrastructure, and platform engineering resp
 - [Mir Telecom](05-mir-telecom.md)
 - [BRAC Bank](06-brac-bank.md)
 
-Dates and role titles follow the supplied CV records. Where the available source does not provide detailed responsibilities, that gap is explicitly identified rather than filled with assumptions.
+Role titles, dates, platforms, and responsibilities are documented at the level supported by the available experience records. The individual role pages preserve their own technical and business context.
