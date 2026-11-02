@@ -122,11 +122,14 @@ Mir Telecom experience covered progressive responsibilities across database admi
 - Worked with the Huawei FusionCloud 6.3 and FusionSphere OpenStack platform components supporting the Mir Cloud environment.
 - Contributed to implementation activities involving virtual private cloud resources, compute resources, images, flavors, and virtual data centers.
 - Worked with security groups, firewalls, load balancing, and auto-scaling capabilities in cloud environments.
+
+
+## Infrastructure Operations, Automation & Billing Software Support
+
 - Supported infrastructure operations involving RAID, LVM, filesystems, NFS, Samba, FTP, virtualization, and storage capacity.
 - Developed shell scripts and Windows batch automation for infrastructure and operational tasks.
-- Contributed to software requirements analysis, technical documentation, Oracle APEX reporting, and application support.
+- Contributed to billing software requirements analysis, technical documentation, Oracle APEX reporting, and application support.
 - Coordinated with vendors, infrastructure teams, and software providers.
-
 
 ## Technologies
 
