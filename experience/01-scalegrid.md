@@ -26,7 +26,7 @@ Provided Level 3 (L3) technical support and database consulting to enterprise cl
 - **MySQL:** 5.7 and 8
 - **PostgreSQL:** 10, 11, 12, and 13
 - **MongoDB:** 4, 5, 6, and 7
-- **Redis:** Version not specified
+- **Redis:** 6
 
 ## Technologies
 
