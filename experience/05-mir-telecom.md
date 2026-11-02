@@ -128,9 +128,6 @@ The broader Mir Telecom experience also included work with Huawei cloud and virt
 - Contributed to software requirements analysis, technical documentation, Oracle APEX reporting, and application support.
 - Coordinated with vendors, infrastructure teams, and software providers.
 
-## Selected Project Context
-
-- **Oracle Data Guard implementation:** I implemented Oracle Data Guard using Oracle Database 10g/11g across Linux, Solaris, and Windows platforms.
 
 ## Technologies
 
