@@ -29,6 +29,9 @@ Worked on Oracle Business Intelligence (OBIEE), Oracle Data Warehousing, and Ora
 
 ## Oracle Database Administration & Development
 
+**Platform versions:** Oracle Database 9i and 10g
+
+- Worked with Oracle Database 9i and 10g environments supporting database development, data warehousing, and application requirements.
 - Maintained test database environments to meet application developers' requirements.
 - Developed SQL and PL/SQL scripts to support database and application functionality.
 - Performed SQL tuning and query troubleshooting.
@@ -45,4 +48,4 @@ Supported the Teller Evaluation System through Oracle Business Intelligence and 
 
 ## Technologies
 
-Oracle Business Intelligence (OBIEE), Oracle BI Administration Tool, BI Answers, Oracle BI Publisher, BI Delivers, iBots, Oracle Warehouse Builder (OWB), Control Center, Oracle Workflow Manager, Oracle Database, SQL, PL/SQL, Oracle Jobs and Scheduler, Job Chains, Process Flows, Oracle Resource Manager, Oracle Heterogeneous Services, DB2, and Microsoft SQL Server.
+Oracle Business Intelligence (OBIEE), Oracle BI Administration Tool, BI Answers, Oracle BI Publisher, BI Delivers, iBots, Oracle Warehouse Builder (OWB), Control Center, Oracle Workflow Manager, Oracle Database 9i and 10g, SQL, PL/SQL, Oracle Jobs and Scheduler, Job Chains, Process Flows, Oracle Resource Manager, Oracle Heterogeneous Services, DB2, and Microsoft SQL Server.
