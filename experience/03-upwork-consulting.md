@@ -6,7 +6,7 @@
 
 ## Engagement overview
 
-The Upwork profile snapshot records **45 completed jobs**. The profile owner reports receiving **more than 30 five-star (5.0/5.0) contract ratings**. Most of the remaining rated contracts are reported as above 4.7/5.0; a small number had no rating. The visible profile snapshot also includes some lower individual ratings, including 4.4 and 4.0, so the record should not be represented as uniformly five-star.
+The Upwork profile snapshot records **45 completed jobs**. The profile owner reports receiving **more than 25 five-star (5.0/5.0) contract ratings**. Most of the remaining rated contracts are reported as above 4.7/5.0; a small number had no rating. The visible profile snapshot also includes some lower individual ratings, including 4.4 and 4.0, so the record should not be represented as uniformly five-star.
 
 These are contract-level ratings, not an overall profile rating.
 
@@ -58,4 +58,4 @@ MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Oracle Database, Amazon Aurora, AWS 
 
 ## Evidence note
 
-The 45-job total and endorsement counts are visible in the supplied Upwork profile snapshots. The more-than-30 five-star count and the statement about the distribution of remaining ratings are supplied by the profile owner. The listed contract examples and quoted feedback are limited to what is visible in the supplied screenshots; they are representative examples, not an exhaustive transcription of all 45 jobs. The public profile link above provides the live Upwork reference.
+The 45-job total and endorsement counts are visible in the supplied Upwork profile snapshots. The more-than-25 five-star count and the statement about the distribution of remaining ratings are supplied by the profile owner. The listed contract examples and quoted feedback are limited to what is visible in the supplied screenshots; they are representative examples, not an exhaustive transcription of all 45 jobs. The public profile link above provides the live Upwork reference.
