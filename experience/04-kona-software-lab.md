@@ -9,7 +9,7 @@ Supported banking, fintech, digital payment, and enterprise platforms across Ban
 
 ## MySQL, MariaDB & Percona Database Engineering
 
-**Platform version:** MySQL 8
+**Platform versions:** MySQL 8 and MariaDB 10
 
 - Administered MySQL and MariaDB databases across on-premises and cloud environments.
 - Managed Galera Cluster, MySQL InnoDB Cluster, and MySQL/MariaDB replication environments.
@@ -20,7 +20,7 @@ Supported banking, fintech, digital payment, and enterprise platforms across Ban
 
 ## PostgreSQL Database Engineering
 
-**Platform version:** PostgreSQL 10
+**Platform versions:** PostgreSQL 10 and 11
 
 - Administered standalone, replicated, clustered, and cloud-hosted PostgreSQL environments.
 - Performed PostgreSQL instance tuning and SQL optimization using PostgreSQL Enterprise Manager (PEM) and pgBadger.
@@ -59,4 +59,4 @@ The source CV identifies work supporting banking, fintech, digital payment, and 
 
 ## Technologies
 
-MySQL 8, MariaDB, Percona, Galera Cluster, MySQL InnoDB Cluster, MySQL/MariaDB Replication, MySQL Enterprise Backup, MySQL Enterprise Monitor, HAProxy, MaxScale, PostgreSQL 10, PostgreSQL Enterprise Manager (PEM), pgBadger, PgPool, PgBouncer, pg_dump, pg_dumpall, pg_restore, Oracle Database 19c and 21c, Oracle RAC, Oracle Data Guard, RMAN, EXPDP, IMPDP, AWR, ASH, ADDM, Oracle Enterprise Manager, Linux, Windows Server, shell scripting, and Windows batch scripting.
+MySQL 8, MariaDB 10, Percona, Galera Cluster, MySQL InnoDB Cluster, MySQL/MariaDB Replication, MySQL Enterprise Backup, MySQL Enterprise Monitor, HAProxy, MaxScale, PostgreSQL 10 and 11, PostgreSQL Enterprise Manager (PEM), pgBadger, PgPool, PgBouncer, pg_dump, pg_dumpall, pg_restore, Oracle Database 19c and 21c, Oracle RAC, Oracle Data Guard, RMAN, EXPDP, IMPDP, AWR, ASH, ADDM, Oracle Enterprise Manager, Linux, Windows Server, shell scripting, and Windows batch scripting.
