@@ -24,7 +24,7 @@ A visual index of the certificate and credential images stored in this directory
 <img src="aws-cloud-practitioner-essentials-course.png" width="520" alt="AWS Cloud Practitioner Essentials course completion certificate">
 
 ### AWS Solutions Architect Associate (SAA-C03) course — A Cloud Guru
-<image src="a-cloud-guru-aws-solutions-architect-associate-saa-c03-course.png" width="520" alt="A Cloud Guru AWS Solutions Architect Associate course completion certificate">
+<img src="a-cloud-guru-aws-solutions-architect-associate-saa-c03-course.png" width="520" alt="A Cloud Guru AWS Solutions Architect Associate course completion certificate">
 
 ### Huawei FusionCloud 6.X Cloud Data Center Solution Training
 <img src="huawei-fusioncloud-6x-training.png" width="520" alt="Huawei FusionCloud 6.X training certificate">
