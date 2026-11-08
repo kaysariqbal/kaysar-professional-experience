@@ -1,6 +1,8 @@
 # Certificates and Professional Credentials
 
-This directory is the index for professional certifications, technical training, and other credentials. Certificate images and source documents are being added separately.
+**Credly digital credentials profile:** [View public Credly profile](https://www.credly.com/users/mohammad-kaysar-iqbal-talukdar)
+
+This directory indexes professional certifications, technical training, and other credentials. The Credly profile is provided as the live digital-badge reference; the list below reflects documents already reviewed and should not be assumed to be a complete export of the Credly wallet.
 
 ## Professional certifications
 
