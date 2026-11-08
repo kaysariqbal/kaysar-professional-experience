@@ -30,6 +30,11 @@ I provide database consulting and engineering across relational and NoSQL platfo
 | Mir Telecom | Assistant Manager; Senior System Engineer; System Engineer; Assistant System Engineer | Apr 2010–Feb 2019 |
 | BRAC Bank | Executive Programmer | Jun 2009–Mar 2010 |
 
+## Certificates and credentials
+
+- [Visual certificate gallery](certificates/GALLERY.md) — image previews of professional certifications, training, academic credentials, and recognition.
+- [Certificate index and credential details](certificates/README.md)
+
 ## Repository structure
 
 - [Certificates and professional credentials](certificates/README.md)
