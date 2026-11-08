@@ -32,6 +32,7 @@ I provide database consulting and engineering across relational and NoSQL platfo
 
 ## Repository structure
 
+- [Certificates and professional credentials](certificates/README.md)
 - [Employment experience](experience/README.md)
 - [Database engineering](engineering-highlights/database-engineering.md)
 - [Cloud and infrastructure](engineering-highlights/cloud-and-infrastructure.md)
