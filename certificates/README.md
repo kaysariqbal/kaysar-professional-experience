@@ -21,6 +21,8 @@ This directory indexes professional certifications, technical training, and othe
 | AWS Certified Solutions Architect – Associate (SAA-C03) course | A Cloud Guru | 15 Jan 2024 | Course completion; not an AWS-issued certification |
 | FusionCloud 6.X Cloud Data Center Solution Training | Huawei Technologies Co., Ltd. | 29 Nov 2018 | Serial: `18COBDSLS562010`; training location: Bangladesh |
 | Ultimate AWS Certified Database Specialty 2022 | Udemy | 28 Apr 2022 | Course completion; certificate URL: https://ude.my/UC-4c1d739d-f40a-4885-8e5f-6e91310180a5 |
+| AWS Certified CloudOps Engineer Associate SOA-C03 2026 course | Udemy | 8 Nov 2026 | 25-hour course completion; certificate number: `UC-fe98a264-2bbd-45ee-9761-f87a74383926`; [certificate](https://ude.my/UC-fe98a264-2bbd-45ee-9761-f87a74383926) |
+| PostgreSQL Essentials v16 | EDB Postgres | 8 Nov 2026 | Certificate of completion; no credential ID visible |
 | AWS Certified CloudOps Engineer Associate SOA-C03 2026 | Udemy | 8 Nov 2026 | 25-hour course completion; certificate no. `UC-fe98a264-2bbd-45ee-9761-f87a74383926`; [certificate](https://ude.my/UC-fe98a264-2bbd-45ee-9761-f87a74383926) |
 
 ## Technical training and recognition
