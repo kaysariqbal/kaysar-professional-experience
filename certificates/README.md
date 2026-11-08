@@ -2,7 +2,7 @@
 
 **Credly digital credentials profile:** [View public Credly profile](https://www.credly.com/users/mohammad-kaysar-iqbal-talukdar)
 
-This directory indexes professional certifications, technical training, academic credentials, language assessment, and professional recognition. The Credly profile is the live digital-badge reference; the tables below cover the certificates and records reviewed for this repository.
+This directory indexes professional certifications, technical training, academic credentials, language assessment, and professional recognition. Browse the [visual certificate gallery](GALLERY.md) for image previews. The Credly profile is the live digital-badge reference; the tables below cover the certificates and records reviewed for this repository.
 
 ## Professional certifications
 
