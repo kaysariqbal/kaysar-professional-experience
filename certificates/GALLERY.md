@@ -10,7 +10,7 @@ A visual index of the certificate and credential images stored in this directory
 <img src="oracle-certified-professional-mysql-5-7.png" width="520" alt="Oracle Certified Professional MySQL 5.7 Database Administrator certificate">
 
 ### Oracle9i Database Administrator Certified Professional
-<image src="oracle9i-database-administrator-ocp.png" width="520" alt="Oracle9i Database Administrator Certified Professional certificate">
+<img src="oracle9i-database-administrator-ocp.png" width="520" alt="Oracle9i Database Administrator Certified Professional certificate">
 
 ### PostgreSQL 13 Professional Certification — EnterpriseDB
 <img src="enterprisedb-postgresql-13-professional.png" width="520" alt="EnterpriseDB PostgreSQL 13 Professional Certification">
