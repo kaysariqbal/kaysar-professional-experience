@@ -38,6 +38,36 @@ This directory indexes professional certifications, technical training, and othe
 
 **Bachelor of Computer Science and Engineering** — University of Development Alternative (UODA). The supplied certificate shows examination year 2008, cumulative grade point average 3.85, and certificate date 30 Apr 2009.
 
+
+## MongoDB certifications and learning achievements
+
+The following 15 additional MongoDB-issued certificates and learning-path records were reviewed from the supplied archive. They are listed as training certificates or learning achievements, not all as professional certifications.
+
+| Credential | Date issued | Credential ID |
+|---|---:|---|
+| MongoDB Database Administrators Learning Path | Date not printed | `MDBgj66ybny0u` |
+| M001: MongoDB Basics | 16 Aug 2021 | `MDBv9xi88wjko` |
+| M103: Basic Cluster Administration | 21 May 2022 | `MDB919vbgcckb` |
+| M201: MongoDB Performance | 24 May 2022 | `MDBtotnajah67` |
+| MongoDB M150: Authentication & Authorization | 24 May 2022 | `MDBjw5lmfb05e` |
+| M312: Diagnostics and Debugging | 26 May 2022 | `MDBy5mg63dfm6` |
+| Identifying Database Workloads | 21 Aug 2024 | `MDBq70nt3icr7` |
+| Modeling Data Relationships | 22 Aug 2024 | `MDBhfov3emjef` |
+| Schema Design Patterns | 28 Aug 2024 | `MDB40rn10rla4` |
+| Schema Design Anti Patterns | 29 Aug 2024 | `MDBesoybt00vd` |
+| Advanced Schema Design Patterns | 29 Aug 2024 | `MDBhqcou1ibh0` |
+| MongoDB Data Modeling Path v1 | 29 Aug 2024 | `MDB7mit07kjew` |
+| Schema Lifecycle Management | 29 Aug 2024 | `MDB4rit8msbht` |
+| MongoDB Atlas Security | 6 Jan 2025 | `MDBwaf571aswb` |
+| MongoDB Indexes | 26 Apr 2025 | `MDBp6fju04dyq` |
+
+### MongoDB archive review and duplicate handling
+
+- The archive also contained the **MongoDB Certified DBA** certificate (license `MDB4sh1sf9oca`, dated 23 Aug 2022). This matches the credential already listed under Professional certifications, so it is not duplicated here.
+- **Getting Started with MongoDB Atlas** and **MongoDB and the Document Model** were explicitly marked “To be Archived” in the supplied certificates. They have been excluded as requested.
+- The 15 new records above are distinct from the existing MongoDB Certified DBA credential.
+- PNG conversions for the 15 included certificates are prepared separately. The source archive's PDFs were used to read the titles, dates, and credential IDs.
+
 ## Publication note
 
 The supplied IELTS Academic Test Report Form is excluded from this public index because it contains personal identifiers and date-of-birth information. A redacted copy can be considered separately.
